@@ -6,7 +6,11 @@
   </head>
   <body>
 
+    <p>Vous êtes connecté !</p>
 
+    <form action="index.html" method="post">
+      <input type="submit" name="deconnexion" value="Se déconnecter">
+    </form>
 
   </body>
 </html>
